@@ -36,4 +36,12 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 |  |
 | ------- |
 | [3567-convert-date-to-binary](https://github.com/NaveenThomas22/leetcode/tree/master/3567-convert-date-to-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/NaveenThomas22/leetcode/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/NaveenThomas22/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
