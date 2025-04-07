@@ -39,9 +39,11 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/NaveenThomas22/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NaveenThomas22/leetcode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/NaveenThomas22/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NaveenThomas22/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
