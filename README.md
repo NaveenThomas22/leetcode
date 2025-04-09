@@ -8,6 +8,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2714-left-and-right-sum-differences](https://github.com/NaveenThomas22/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/NaveenThomas22/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/NaveenThomas22/leetcode/tree/master/3429-special-array-i) |
 ## Prefix Sum
 |  |
