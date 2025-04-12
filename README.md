@@ -11,6 +11,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [3226-minimum-number-game](https://github.com/NaveenThomas22/leetcode/tree/master/3226-minimum-number-game) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/NaveenThomas22/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/NaveenThomas22/leetcode/tree/master/3429-special-array-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NaveenThomas22/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/NaveenThomas22/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Prefix Sum
 |  |
@@ -36,6 +37,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Math
 |  |
 | ------- |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NaveenThomas22/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/NaveenThomas22/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/NaveenThomas22/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## String
