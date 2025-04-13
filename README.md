@@ -43,6 +43,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## String
 |  |
 | ------- |
+| [3447-clear-digits](https://github.com/NaveenThomas22/leetcode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/NaveenThomas22/leetcode/tree/master/3567-convert-date-to-binary) |
 ## Divide and Conquer
 |  |
@@ -62,4 +63,9 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/NaveenThomas22/leetcode/tree/master/3226-minimum-number-game) |
+| [3447-clear-digits](https://github.com/NaveenThomas22/leetcode/tree/master/3447-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/NaveenThomas22/leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
