@@ -7,6 +7,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/NaveenThomas22/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/NaveenThomas22/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3226-minimum-number-game](https://github.com/NaveenThomas22/leetcode/tree/master/3226-minimum-number-game) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/NaveenThomas22/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -16,6 +17,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Prefix Sum
 |  |
 | ------- |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/NaveenThomas22/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/NaveenThomas22/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -37,6 +39,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Math
 |  |
 | ------- |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/NaveenThomas22/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NaveenThomas22/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/NaveenThomas22/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/NaveenThomas22/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
