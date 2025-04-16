@@ -9,6 +9,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NaveenThomas22/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/NaveenThomas22/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/NaveenThomas22/leetcode/tree/master/3226-minimum-number-game) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/NaveenThomas22/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/NaveenThomas22/leetcode/tree/master/3429-special-array-i) |
@@ -23,6 +24,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
