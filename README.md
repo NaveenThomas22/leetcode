@@ -79,4 +79,8 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/NaveenThomas22/leetcode/tree/master/3447-clear-digits) |
+## Database
+|  |
+| ------- |
+| [1153-product-sales-analysis-i](https://github.com/NaveenThomas22/leetcode/tree/master/1153-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
