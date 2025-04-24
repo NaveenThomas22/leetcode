@@ -45,6 +45,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NaveenThomas22/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NaveenThomas22/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2812-find-the-maximum-achievable-number](https://github.com/NaveenThomas22/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NaveenThomas22/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/NaveenThomas22/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3567-convert-date-to-binary](https://github.com/NaveenThomas22/leetcode/tree/master/3567-convert-date-to-binary) |
