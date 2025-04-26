@@ -10,6 +10,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NaveenThomas22/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NaveenThomas22/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1791-richest-customer-wealth](https://github.com/NaveenThomas22/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2714-left-and-right-sum-differences](https://github.com/NaveenThomas22/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/NaveenThomas22/leetcode/tree/master/3226-minimum-number-game) |
@@ -90,4 +91,8 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 |  |
 | ------- |
 | [1153-product-sales-analysis-i](https://github.com/NaveenThomas22/leetcode/tree/master/1153-product-sales-analysis-i) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/NaveenThomas22/leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
