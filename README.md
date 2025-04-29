@@ -19,6 +19,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [3429-special-array-i](https://github.com/NaveenThomas22/leetcode/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NaveenThomas22/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/NaveenThomas22/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NaveenThomas22/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/NaveenThomas22/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Prefix Sum
 |  |
@@ -56,6 +57,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [2812-find-the-maximum-achievable-number](https://github.com/NaveenThomas22/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NaveenThomas22/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/NaveenThomas22/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NaveenThomas22/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/NaveenThomas22/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/NaveenThomas22/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## String
@@ -79,11 +81,13 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/NaveenThomas22/leetcode/tree/master/3226-minimum-number-game) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NaveenThomas22/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/NaveenThomas22/leetcode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/NaveenThomas22/leetcode/tree/master/3447-clear-digits) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NaveenThomas22/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/NaveenThomas22/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
