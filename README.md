@@ -63,6 +63,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## String
 |  |
 | ------- |
+| [1797-goal-parser-interpretation](https://github.com/NaveenThomas22/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [3447-clear-digits](https://github.com/NaveenThomas22/leetcode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/NaveenThomas22/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/NaveenThomas22/leetcode/tree/master/3811-reverse-degree-of-a-string) |
