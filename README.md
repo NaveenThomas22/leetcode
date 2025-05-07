@@ -6,6 +6,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/NaveenThomas22/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NaveenThomas22/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -81,6 +82,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/NaveenThomas22/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/NaveenThomas22/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NaveenThomas22/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
