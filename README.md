@@ -8,6 +8,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | ------- |
 | [0137-single-number-ii](https://github.com/NaveenThomas22/leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/NaveenThomas22/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NaveenThomas22/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NaveenThomas22/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -38,6 +39,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/NaveenThomas22/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2128-reverse-prefix-of-word](https://github.com/NaveenThomas22/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
