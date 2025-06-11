@@ -21,6 +21,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [2756-buy-two-chocolates](https://github.com/NaveenThomas22/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/NaveenThomas22/leetcode/tree/master/3226-minimum-number-game) |
+| [3227-find-missing-and-repeated-values](https://github.com/NaveenThomas22/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/NaveenThomas22/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/NaveenThomas22/leetcode/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NaveenThomas22/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -42,6 +43,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [2421-maximum-number-of-pairs-in-array](https://github.com/NaveenThomas22/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/NaveenThomas22/leetcode/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/NaveenThomas22/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +72,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NaveenThomas22/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/NaveenThomas22/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2812-find-the-maximum-achievable-number](https://github.com/NaveenThomas22/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/NaveenThomas22/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/NaveenThomas22/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/NaveenThomas22/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NaveenThomas22/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -121,6 +124,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/NaveenThomas22/leetcode/tree/master/1791-richest-customer-wealth) |
+| [3227-find-missing-and-repeated-values](https://github.com/NaveenThomas22/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
