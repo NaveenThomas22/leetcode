@@ -78,6 +78,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NaveenThomas22/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/NaveenThomas22/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/NaveenThomas22/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3830-find-closest-person](https://github.com/NaveenThomas22/leetcode/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
