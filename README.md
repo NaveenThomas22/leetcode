@@ -15,6 +15,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [1603-running-sum-of-1d-array](https://github.com/NaveenThomas22/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NaveenThomas22/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1791-richest-customer-wealth](https://github.com/NaveenThomas22/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1848-sum-of-unique-elements](https://github.com/NaveenThomas22/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/NaveenThomas22/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/NaveenThomas22/leetcode/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/NaveenThomas22/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -40,6 +41,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [0217-contains-duplicate](https://github.com/NaveenThomas22/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1848-sum-of-unique-elements](https://github.com/NaveenThomas22/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/NaveenThomas22/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/NaveenThomas22/leetcode/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -134,5 +136,6 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Counting
 |  |
 | ------- |
+| [1848-sum-of-unique-elements](https://github.com/NaveenThomas22/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/NaveenThomas22/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 <!---LeetCode Topics End-->
