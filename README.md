@@ -83,6 +83,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | ------- |
 | [1797-goal-parser-interpretation](https://github.com/NaveenThomas22/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2128-reverse-prefix-of-word](https://github.com/NaveenThomas22/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2365-percentage-of-letter-in-string](https://github.com/NaveenThomas22/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/NaveenThomas22/leetcode/tree/master/2502-sort-the-people) |
 | [3447-clear-digits](https://github.com/NaveenThomas22/leetcode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/NaveenThomas22/leetcode/tree/master/3567-convert-date-to-binary) |
