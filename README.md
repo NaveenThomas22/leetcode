@@ -22,6 +22,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [2502-sort-the-people](https://github.com/NaveenThomas22/leetcode/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/NaveenThomas22/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/NaveenThomas22/leetcode/tree/master/2756-buy-two-chocolates) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/NaveenThomas22/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/NaveenThomas22/leetcode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/NaveenThomas22/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -46,6 +47,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [1848-sum-of-unique-elements](https://github.com/NaveenThomas22/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/NaveenThomas22/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/NaveenThomas22/leetcode/tree/master/2502-sort-the-people) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/NaveenThomas22/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/NaveenThomas22/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -92,6 +94,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NaveenThomas22/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2365-percentage-of-letter-in-string](https://github.com/NaveenThomas22/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2502-sort-the-people](https://github.com/NaveenThomas22/leetcode/tree/master/2502-sort-the-people) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/NaveenThomas22/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3447-clear-digits](https://github.com/NaveenThomas22/leetcode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/NaveenThomas22/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/NaveenThomas22/leetcode/tree/master/3811-reverse-degree-of-a-string) |
@@ -115,6 +118,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Simulation
 |  |
 | ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/NaveenThomas22/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/NaveenThomas22/leetcode/tree/master/3226-minimum-number-game) |
 | [3447-clear-digits](https://github.com/NaveenThomas22/leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NaveenThomas22/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
