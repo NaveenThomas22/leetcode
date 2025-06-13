@@ -50,6 +50,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [2847-find-maximum-number-of-string-pairs](https://github.com/NaveenThomas22/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/NaveenThomas22/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NaveenThomas22/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [2847-find-maximum-number-of-string-pairs](https://github.com/NaveenThomas22/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3447-clear-digits](https://github.com/NaveenThomas22/leetcode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/NaveenThomas22/leetcode/tree/master/3567-convert-date-to-binary) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NaveenThomas22/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/NaveenThomas22/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
@@ -146,6 +148,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/NaveenThomas22/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/NaveenThomas22/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NaveenThomas22/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting Sort
 |  |
 | ------- |
