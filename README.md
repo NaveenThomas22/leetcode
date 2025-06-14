@@ -9,6 +9,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [0137-single-number-ii](https://github.com/NaveenThomas22/leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/NaveenThomas22/leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/NaveenThomas22/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/NaveenThomas22/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NaveenThomas22/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -37,6 +38,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/NaveenThomas22/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/NaveenThomas22/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NaveenThomas22/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/NaveenThomas22/leetcode/tree/master/2714-left-and-right-sum-differences) |
