@@ -46,6 +46,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/NaveenThomas22/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NaveenThomas22/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1848-sum-of-unique-elements](https://github.com/NaveenThomas22/leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -71,6 +72,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/NaveenThomas22/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/NaveenThomas22/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1137-height-checker](https://github.com/NaveenThomas22/leetcode/tree/master/1137-height-checker) |
@@ -95,6 +97,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/NaveenThomas22/leetcode/tree/master/0242-valid-anagram) |
 | [1797-goal-parser-interpretation](https://github.com/NaveenThomas22/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2128-reverse-prefix-of-word](https://github.com/NaveenThomas22/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NaveenThomas22/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
