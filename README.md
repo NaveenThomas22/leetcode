@@ -49,6 +49,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [0242-valid-anagram](https://github.com/NaveenThomas22/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/NaveenThomas22/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/NaveenThomas22/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/NaveenThomas22/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/NaveenThomas22/leetcode/tree/master/2502-sort-the-people) |
@@ -98,6 +99,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/NaveenThomas22/leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/NaveenThomas22/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/NaveenThomas22/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2128-reverse-prefix-of-word](https://github.com/NaveenThomas22/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NaveenThomas22/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -155,6 +157,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NaveenThomas22/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/NaveenThomas22/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/NaveenThomas22/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NaveenThomas22/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -162,4 +165,8 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/NaveenThomas22/leetcode/tree/master/1137-height-checker) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NaveenThomas22/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
