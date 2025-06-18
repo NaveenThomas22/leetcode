@@ -6,6 +6,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NaveenThomas22/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0137-single-number-ii](https://github.com/NaveenThomas22/leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/NaveenThomas22/leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/NaveenThomas22/leetcode/tree/master/0217-contains-duplicate) |
@@ -60,6 +61,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NaveenThomas22/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/NaveenThomas22/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2128-reverse-prefix-of-word](https://github.com/NaveenThomas22/leetcode/tree/master/2128-reverse-prefix-of-word) |
