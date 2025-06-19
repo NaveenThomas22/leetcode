@@ -7,6 +7,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NaveenThomas22/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/NaveenThomas22/leetcode/tree/master/0035-search-insert-position) |
 | [0137-single-number-ii](https://github.com/NaveenThomas22/leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/NaveenThomas22/leetcode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/NaveenThomas22/leetcode/tree/master/0217-contains-duplicate) |
@@ -68,6 +69,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/NaveenThomas22/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/NaveenThomas22/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
