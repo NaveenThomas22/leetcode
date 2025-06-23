@@ -149,6 +149,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/NaveenThomas22/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1153-product-sales-analysis-i](https://github.com/NaveenThomas22/leetcode/tree/master/1153-product-sales-analysis-i) |
 ## Matrix
 |  |
