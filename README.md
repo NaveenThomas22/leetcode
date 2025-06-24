@@ -10,6 +10,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [0035-search-insert-position](https://github.com/NaveenThomas22/leetcode/tree/master/0035-search-insert-position) |
 | [0137-single-number-ii](https://github.com/NaveenThomas22/leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/NaveenThomas22/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/NaveenThomas22/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NaveenThomas22/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NaveenThomas22/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
@@ -47,6 +48,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NaveenThomas22/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NaveenThomas22/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NaveenThomas22/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
@@ -76,6 +78,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NaveenThomas22/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NaveenThomas22/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NaveenThomas22/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
@@ -118,6 +121,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NaveenThomas22/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/NaveenThomas22/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NaveenThomas22/leetcode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -164,6 +168,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NaveenThomas22/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/NaveenThomas22/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1848-sum-of-unique-elements](https://github.com/NaveenThomas22/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/NaveenThomas22/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
