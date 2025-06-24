@@ -106,6 +106,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NaveenThomas22/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/NaveenThomas22/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/NaveenThomas22/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/NaveenThomas22/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/NaveenThomas22/leetcode/tree/master/1797-goal-parser-interpretation) |
@@ -148,6 +149,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NaveenThomas22/leetcode/tree/master/0020-valid-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/NaveenThomas22/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/NaveenThomas22/leetcode/tree/master/3447-clear-digits) |
 ## Database
