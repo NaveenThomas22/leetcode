@@ -16,6 +16,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NaveenThomas22/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0500-keyboard-row](https://github.com/NaveenThomas22/leetcode/tree/master/0500-keyboard-row) |
 | [1137-height-checker](https://github.com/NaveenThomas22/leetcode/tree/master/1137-height-checker) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NaveenThomas22/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/NaveenThomas22/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -54,6 +55,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NaveenThomas22/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/NaveenThomas22/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/NaveenThomas22/leetcode/tree/master/0500-keyboard-row) |
 | [1848-sum-of-unique-elements](https://github.com/NaveenThomas22/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/NaveenThomas22/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/NaveenThomas22/leetcode/tree/master/2502-sort-the-people) |
@@ -109,6 +111,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 | [0020-valid-parentheses](https://github.com/NaveenThomas22/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/NaveenThomas22/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/NaveenThomas22/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0500-keyboard-row](https://github.com/NaveenThomas22/leetcode/tree/master/0500-keyboard-row) |
 | [1797-goal-parser-interpretation](https://github.com/NaveenThomas22/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2128-reverse-prefix-of-word](https://github.com/NaveenThomas22/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/NaveenThomas22/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
