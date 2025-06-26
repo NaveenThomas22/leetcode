@@ -49,6 +49,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NaveenThomas22/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/NaveenThomas22/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NaveenThomas22/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NaveenThomas22/leetcode/tree/master/0242-valid-anagram) |
@@ -92,6 +93,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NaveenThomas22/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/NaveenThomas22/leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NaveenThomas22/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/NaveenThomas22/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -107,6 +109,7 @@ Solving LeetCode challenges one step at a time — sharpening logic, boosting br
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NaveenThomas22/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/NaveenThomas22/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/NaveenThomas22/leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/NaveenThomas22/leetcode/tree/master/0242-valid-anagram) |
